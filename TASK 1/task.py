@@ -1,0 +1,5 @@
+name = input('What is your name?\n')
+marks = int(input('Enter 5 subject marks.\n'))
+print('Hi, %s.' % name)
+print('your roll number is %s.' %roll)
+print('your maths marks are %s.' %maths)
